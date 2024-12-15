@@ -1,0 +1,22 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+    }
+    
+    
+    h2{
+    font-variant: small-caps;
+    }
+    
+    
+    .l {
+    text-decoration: overline;
+    
+    }
+    
+    
+    #x{
+    
+    text-decoration: line-through;
+    
+    }     

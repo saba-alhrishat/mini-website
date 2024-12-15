@@ -1,0 +1,61 @@
+
+
+.sos { background: rgb(239, 235, 235) ; }
+
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.p1 {
+    font-variant: small-caps;
+    text-align: center;
+}
+
+div #d{
+    background-color: rgb(23, 55, 116) ;
+    color: white;
+}
+   
+h3{
+    text-decoration: underline;
+    color: red;
+}
+
+#span{
+text-decoration: line-through;
+text-decoration: line-through;
+
+}
+.spanc{
+
+font-weight: bold;
+text-decoration: line-through;
+
+}
+
+#sid{
+text-decoration: line-through;
+
+}
+.cla { color: red;
+text-transform: lowercase;
+text-align: center;
+
+}
+.ccl {
+text-align: center;
+color: white;
+}
+
+#dd {
+    background-color:rgb(23, 55, 116) ;
+}

@@ -1,0 +1,7 @@
+body {
+    height: 700;
+    background-image: url(bac2.jpg), url(bac4.webp);
+    
+ background-repeat:repeat-y,repeat-x;  
+background-size: contain;
+}

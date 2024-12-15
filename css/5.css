@@ -1,0 +1,40 @@
+
+
+
+
+.wh {
+    
+    background-color:white;
+    /* background-image: linear-gradient( top ,  white ,  transparent ); */
+    
+}
+
+
+
+#bod {
+  
+
+background-image: url(bac.png) ;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-origin: content-box;
+}
+
+
+
+
+div {
+font-variant: small-caps;
+text-align: center;
+}
+
+.five {
+color: red;
+text-decoration: underline;
+
+}
+span {
+background-color: yellow;
+color: red;
+}

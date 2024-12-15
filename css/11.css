@@ -1,0 +1,58 @@
+div 
+    {
+        border: grey , 5px;
+        padding: 10px ;
+        border-style: inset;
+        height: 500px;
+        width: 400px;
+    background-color: rgba(234, 211, 181, 0.574);
+    position: relative;
+    left: 20px;
+    
+    : 0;
+    
+    }
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+
+color: white;
+font-variant: small-caps;
+background-color: #b30008;
+/* width: 200px; */
+text-align: center;
+background-origin: margin-box ;
+left: 20px;
+
+}
+
+ input {
+    border: 0px ;
+    position: relative;
+    left: 30px ;
+width: 300px;
+
+height: 40px;
+
+
+}
+textarea {
+    position: relative;
+    left: 30px ;
+    width: 300px;
+    height: 40px;
+    border: 0px ;
+
+
+}
+button {
+    position: relative;
+    
+    border-style: solid;
+    background-color: yellow;
+    text-align: center;
+ height: 50px;
+ width: 400px ;
+
+
+}

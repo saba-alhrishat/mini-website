@@ -1,0 +1,14 @@
+.hh {
+    color: red;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+span {
+color: green;
+text-transform: uppercase;
+text-decoration: underline;
+
+}
+#bb {
+  background-image: url(bac3.jpeg);
+}
